@@ -17,7 +17,7 @@ Cada repositório individual (Podcast, Ebook) segue uma arquitetura de pastas fi
 ---
 
 <p align="center">
-    <img width="150" src="./assets/kaura_logo.png" alt="Logotipo KAURA - AI & Data Innovation"> 
+    <img width="150" src="https://github.com/monicacruzs/KAURA-Generative-AI-Portfolio/blob/main/assets/assets/Logo%20Kaura%20INPI%20Colorida.png" alt="Logotipo KAURA - AI & Data Innovation"> 
 </p>
 
 <p align="center">
