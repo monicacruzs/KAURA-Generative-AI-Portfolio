@@ -39,6 +39,19 @@ Este repositório serve como um **índice unificado** dos projetos práticos des
 
 Todos os projetos aqui listados aplicam o **Vibe Writing**: a técnica de injetar **Persona, Tom e Metáfora** nos Prompts, transformando a IA em uma ferramenta de comunicação acessível e impactante.
 
+### 📝 Prompt Mestre de Planejamento (Estratégia Inicial)
+
+Para dar início ao meu portfólio, utilizei um Prompt Mestre para forçar a IA a criar as ideias de conteúdo mais estratégicas, alinhadas ao meu branding KAURA e aos conceitos do curso DIO/Universia.
+
+[LINK]([Caminho para prompts/prompt_estrategia_inicial.txt](https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-PODCAST-KPL/blob/main/prompts/prompt_estrategia_inicial.txt))
+
+| Ideia de Conteúdo/Entregável | Conceitos Chave do Curso Aplicados (Módulos) | Vibe e Valor KAURA (Por que é valioso) |
+| :--- | :--- | :--- |
+| **Podcast: Os 3 Mitos da IA** | Módulo 2 (Eng. de Prompts), Módulo 6 (Aplicações). | Desmistificar a IA para mulheres. |
+| **Ebook: Receitas de Prompt** | Módulo 2 (Componentes do Prompt), Módulo 6 (LLMs no dia a dia). | Guia prático para a liberdade de tempo. |
+| ... | ... | ... |
+---
+
 ## 🗂️ Índice de Projetos KAURA
 
 | Tema | Repositório | Entregável | Metáfora Central | Conceitos de IA |
@@ -66,13 +79,13 @@ Todos os projetos listados acima seguem uma arquitetura de pastas padronizada pa
       align=left 
       margin=10 
       width=80 
-      src="SUA URL DE AVATAR AQUI"
+      src=https://avatars.githubusercontent.com/u/71937997?v=4
     />
     <p>&nbsp&nbsp&nbspMônica Cruz<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/monicacruzs">
+    <a href=https://github.com/monicacruzs>
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/m%C3%B4nicacruz/?locale=pt_BR">LinkedIn</a>
+    <a href=https://www.linkedin.com/in/m%C3%B4nicacruz/?locale=pt_BR>LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="SEU KAURA AQUI">
     KAURA - AI & Data Innovation</a>
@@ -80,5 +93,3 @@ Todos os projetos listados acima seguem uma arquitetura de pastas padronizada pa
 </p>
 <br/><br/>
 <p>
----
-⌨️ com 💜 por [Mônica Cruz](SEU GITHUB AQUI)
