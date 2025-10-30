@@ -1,4 +1,4 @@
-# KAURA-Generative-AI-Portfolio
+# KAURA-Generative-AI-Portfólio
 Portfólio unificado de projetos em IA Generativa e Engenharia de Prompts. Foco em soluções Human-Centered para o público não-técnico (KAURA).
 ---
 ## 📄 Estratégia de Organização do Portfólio
