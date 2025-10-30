@@ -43,7 +43,7 @@ Todos os projetos aqui listados aplicam o **Vibe Writing**: a técnica de injeta
 
 Para dar início ao meu portfólio, utilizei um Prompt Mestre para forçar a IA a criar as ideias de conteúdo mais estratégicas, alinhadas ao meu branding KAURA e aos conceitos do curso DIO/Universia.
 
-[LINK]([Caminho para prompts/prompt_estrategia_inicial.txt](https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-PODCAST-KPL/blob/main/prompts/prompt_estrategia_inicial.txt))
+([LINK para o prompt da estratégia inicial](https://github.com/monicacruzs/KAURA-Generative-AI-Portfolio/blob/main/prompts/prompt_estrategia_inicial.txt))
 
 | Ideia de Conteúdo/Entregável | Conceitos Chave do Curso Aplicados (Módulos) | Vibe e Valor KAURA (Por que é valioso) |
 | :--- | :--- | :--- |
