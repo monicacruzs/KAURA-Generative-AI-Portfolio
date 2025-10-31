@@ -56,9 +56,9 @@ Para dar início ao meu portfólio, utilizei um Prompt Mestre para forçar a IA 
 
 | Tema | Repositório | Entregável | Metáfora Central | Conceitos de IA |
 | :--- | :--- | :--- | :--- | :--- |
-| **Comunicação** | [KAURA-PROJ-PROMPT-ENG-PODCAST-KPL](SEU LINK DO REPOSITÓRIO PODCAST AQUI) | Podcast (MP4) | A IA como o **"Guia"** para a Liberdade. | Engenharia de Persona, TTS, Vibe Writing para Imagem (DALL-E 3). |
-| **Produtividade** | [KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS](SEU LINK DO REPOSITÓRIO EBOOK AQUI) | Ebook (PDF) | O Prompt como a **"Receita Secreta"** na Cozinha Mágica da IA. | Componentes do Prompt, Estrutura de Saída, Uso do Copilot. |
-| **[PRÓXIMO PROJETO]** | [KAURA-PROJ-PROMPT-ENG-SITE-MOCKUP](SEU LINK DO REPOSITÓRIO FUTURO AQUI) | Wireframe/Código | A IA como o **"Co-Piloto de Design"**. | LLM para Código, Geração de Wireframes, Análise de UX/UI. |
+| **Comunicação** | [KAURA-PROJ-PROMPT-ENG-PODCAST-KPL](https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-PODCAST-KPL) | Podcast (MP4) | A IA como o **"Guia"** para a Liberdade. | Engenharia de Persona, TTS, Vibe Writing para Imagem (DALL-E 3). |
+| **Produtividade** | [KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS](https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS) | Ebook (PDF) | O Prompt como a **"Receita Secreta"** na Cozinha Mágica da IA. | Componentes do Prompt, Estrutura de Saída, Uso do Copilot. |
+| **[PRÓXIMO PROJETO]** | [KAURA-PROJ-PROMPT-ENG-SITE-MOCKUP](https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-SITE-MOCKUP) | Wireframe/Código | A IA como o **"Co-Piloto de Design"**. | LLM para Código, Geração de Wireframes, Análise de UX/UI. |
 
 ---
 
@@ -72,7 +72,7 @@ Todos os projetos listados acima seguem uma arquitetura de pastas padronizada pa
 
 ---
 
-## 👩‍💻 Expert e Contato
+## 👩‍💻 Expert (Contato)
 
 <p>
     <img 
